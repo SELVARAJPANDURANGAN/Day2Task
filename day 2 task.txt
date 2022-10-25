@@ -1,0 +1,79 @@
+
+1. Difference between window and Document Object
+ 
+Window 
+
+window is a browser page where we can see all the outputs directly and 
+it has console,network window everything insideit
+
+window object properties
+
+closed 
+console
+document
+innerWidth
+innerHeight
+length
+location
+name
+opener
+outerWidth
+parent
+screen
+self
+top
+
+window object methods
+
+alert()
+atob()
+blur()
+btoa()
+closed()
+confirm()
+focus()
+moveBy()
+moveTo()
+open()
+print()
+prompt()
+scroll()
+scrollBy()
+scrollTo()
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Document
+
+Document is represent a webpage that is loaded in the browser by accesing 
+the document object . we can access the element in the html page.with the 
+help of document we can add dynamic content to our webpage
+
+Document Object properties
+
+activeElement
+anchors
+applets
+body
+baseURI
+body
+charset
+cookie
+designMode
+domain
+forms
+
+Document object methods
+
+adopnote()
+close()
+craeteEvent()
+execCommand()
+hasFocus()
+importNode()
+open()
+referrer()
+write()
+writeln()
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+2. CODE KATTA PROBLE SOLVED
